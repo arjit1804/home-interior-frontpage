@@ -93,6 +93,6 @@ span{
 button:hover span{
     width: 100%;
 }
-buttton:hover{
+button:hover{
     border: none;
 }
